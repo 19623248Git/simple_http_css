@@ -14,4 +14,10 @@ Semantic yang terdapat pada `index.html` yaitu:
 - nav: berisi link penting untuk portfolio
 - footer: bagian terbawah dari web portfolio, berisi informasi kontak
 
-Tipografi
+Tipografi:
+- Memanfaatkan jenis font `font-family: system-ui;`
+- Setiap ukuran font dan warna pada teks dibedakan antara paragraf, judul, dan list untuk memberikan kejelasan diantara setiap jenis
+- Hanya terdapat satu `h1` pada bagian header dari web portfolio
+
+Warna:
+- warna didapatkan menggunakan website <a href="https://coolors.co/c19ab7-9c95dc-228cdb-0b7189-170a1c">coolors.co</a>
